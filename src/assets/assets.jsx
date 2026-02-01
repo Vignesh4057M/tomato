@@ -1,6 +1,6 @@
 import basket_icon from "./Images/basket_icon.png"
 import logo from "./Images/images.png"
-import Header_Image from "./Images/header_Image.png"
+import header_Image from "./Images/header_Image.png"
 import logout from "./Images/logout.png"
 import add_icon_green from "./Images/add_icon_green.png"
 import add_icon_white from "./Images/add_icon_white.png"
@@ -77,7 +77,7 @@ import menu20 from "./Images/menu20.png"
 export const assets = {
     basket_icon,
     logo,
-    Header_Image,
+    header_Image,
     logout,
     add_icon_green,
     add_icon_white,
