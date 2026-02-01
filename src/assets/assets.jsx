@@ -1,6 +1,6 @@
 import basket_icon from "./images/basket_icon.png"
 import logo from "./images/images.png"
-import header_Image from "./images/header_Image.png"
+import header_Image from "./images/header_image.png"
 import logout from "./images/logout.png"
 import add_icon_green from "./images/add_icon_green.png"
 import add_icon_white from "./images/add_icon_white.png"
