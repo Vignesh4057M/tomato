@@ -9,7 +9,7 @@
     overflow: hidden;
 } */
 .header{
-  background-image: url('../../assets//Images/header_Image.png'); /* change path */
+  background-image: url('../../assets//Images/header_image.png'); /* change path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
